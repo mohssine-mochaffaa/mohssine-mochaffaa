@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm Mohssine Mochaffaa
+# 👋 Hi there, I'm Mohssine Mochaffaa 
+# 👋 Junior software engineer
 
 I am a passionate **Full-Stack Developer** with experience in creating dynamic and responsive web applications. My expertise lies in a variety of technologies, enabling me to bring ideas to life from the front-end to the back-end.
 
