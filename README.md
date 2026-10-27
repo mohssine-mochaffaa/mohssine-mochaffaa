@@ -1,22 +1,125 @@
 <h1 align="center">Hi 👋, I'm Mochaffaa Mohssine</h1>
-<h3 align="center">A passionate software engineer from Morocco - Casablanca city</h3>
-<img width="400" align="right" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216"/>
-<br/>
 
-- 🔭 I’m currently working on [BTP web application](https://btpma.com)
+<h3 align="center">Full-Stack Software Engineer · Java &amp; JavaScript Ecosystems</h3>
 
-- 🌱 I’m currently learning **Django with python**
-
-- 👨‍💻 All of my projects are available at [https://mohssine-mochaffaa.netlify.app](https://mohssine-mochaffaa.netlify.app)
-
-- 📫 How to reach me **mohssine.mochaffaa@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohssine mochaffaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohssine mochaffaa" height="30" width="40" /></a>
-<a href="https://fb.com/mohssine mochaffaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohssine mochaffaa" height="30" width="40" /></a>
-<a href="https://instagram.com/mohssine mochaffaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohssine mochaffaa" height="30" width="40" /></a>
+<p align="center">
+  Building secure, scalable web and mobile products, from event-driven microservices to polished React interfaces.<br/>
+  📍 Casablanca, Morocco
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://mohssine-mochaffaa.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://ma.linkedin.com/in/mohssine-mochaffaa-369aaa224"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mohssine.mochaffaa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="tel:+212687226112"><img src="https://img.shields.io/badge/Phone-+212_687_226_112-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **[BTP](https://btpma.com)**, a construction-sector web application
+- 🌱 Currently learning **Django (Python)** to broaden my backend toolkit
+- 🏗️ I design and ship **end-to-end**: REST APIs, authentication, data layers, CI-ready containers, and web/mobile front ends
+- 🧪 I care about **clean architecture, testing, and maintainable code**
+- 💬 Ask me about: Spring Boot, microservices, Kafka, Keycloak, React / Next.js, React Native
+- 📂 All my projects: **[mohssine-mochaffaa.netlify.app](https://mohssine-mochaffaa.netlify.app)**
+
+---
+
+## 🧰 Tech Stack
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,js&perline=10" alt="Backend"/>
+</p>
+
+`Java` · `Spring Boot` · `Express.js` · `Node.js` · `JavaScript (ES6+)`
+
+### Frontend &amp; Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,react,html,css&perline=10" alt="Frontend"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
+</p>
+
+`React.js` · `Next.js` · `React Native` · `Expo` · `HTML5` · `CSS3`
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&perline=10" alt="Databases"/>
+</p>
+
+`MongoDB` · `MySQL` · `PostgreSQL` · `Firebase`
+
+### Security, Messaging &amp; DevOps
+<p>
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="Rancher"/>
+</p>
+
+### Testing &amp; Tooling
+<p>
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+
+---
+
+## 🏛️ How I Build
+
+| Layer | What I use |
+|---|---|
+| **APIs &amp; Services** | Spring Boot (REST, Spring Security, Spring Data), Express.js |
+| **Auth &amp; Identity** | Keycloak (OAuth2 / OpenID Connect, SSO, role-based access) |
+| **Messaging** | Apache Kafka for event-driven, decoupled services |
+| **Data** | PostgreSQL / MySQL for relational, MongoDB for documents, Firebase for realtime and BaaS |
+| **Web** | React.js, Next.js (SSR / SSG) |
+| **Mobile** | React Native + Expo (iOS &amp; Android from one codebase) |
+| **Quality** | JUnit for unit/integration tests, Postman for API testing and collections |
+| **Delivery** | Docker containers, managed through Rancher |
+
+---
+
+## 📊 GitHub Stats
+
+> Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<!-- Pin your best repos on your profile, or list them here: -->
+
+| Project | Description | Stack |
+|---|---|---|
+| [**BTP**](https://btpma.com) | Web application for the construction sector | _add stack here_ |
+| 🔗 [More on my portfolio](https://mohssine-mochaffaa.netlify.app) | Full list of projects and case studies | Java · Spring Boot · React · Next.js · React Native |
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **full-stack engineering opportunities, freelance work, and collaborations**.
+
+- 📧 **Email:** [mohssine.mochaffaa@gmail.com](mailto:mohssine.mochaffaa@gmail.com)
+- 📱 **Phone:** [+212 687 226 112](tel:+212687226112)
+- 💼 **LinkedIn:** [mohssine-mochaffaa](https://ma.linkedin.com/in/mohssine-mochaffaa-369aaa224)
+- 🌐 **Portfolio:** [mohssine-mochaffaa.netlify.app](https://mohssine-mochaffaa.netlify.app)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C2A8&height=100&section=footer" alt="footer"/>
+</p>
